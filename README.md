@@ -10,6 +10,6 @@ Criando site com pesquisa de rota -- Filme em alta
 <img width="1919" height="1005" alt="image" src="https://github.com/user-attachments/assets/840f54ca-56fc-4ace-bba3-d2d04b1e3699" />
 
 
-# conectando ao linux pelo cmd:
+# conectando ao linux pelo cmd (conexão via SSH):
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/0a00845c-6929-45b4-aa72-8a5ebdd6f7d3" />
 
