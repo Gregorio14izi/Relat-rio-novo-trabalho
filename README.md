@@ -13,3 +13,6 @@ Criando site com pesquisa de rota -- Filme em alta
 # conectando ao linux pelo cmd (conexão via SSH):
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/0a00845c-6929-45b4-aa72-8a5ebdd6f7d3" />
 
+* criando pastas e arquivos .txt (teste) via SSH:
+  <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/f54d8371-d3e6-4c5a-b6b9-f5e92215a688" />
+
