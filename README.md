@@ -20,3 +20,6 @@ Criando site com pesquisa de rota -- Filme em alta
 
 # CRIAÇÃO de novas pastas e arquivos no VSCODE
 <img width="1919" height="1007" alt="image" src="https://github.com/user-attachments/assets/4bc7b457-0833-48ef-a0c6-795b0b0ec92c" />
+
+* Login com usuario e senha Criado
+<img width="1919" height="1010" alt="image" src="https://github.com/user-attachments/assets/0729cb26-b953-4930-a07d-a0c7aa618dcb" />
