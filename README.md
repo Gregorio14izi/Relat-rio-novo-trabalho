@@ -24,6 +24,9 @@ Criando site com pesquisa de rota -- Filme em alta
 * Login com usuario e senha Criado
 <img width="1919" height="1010" alt="image" src="https://github.com/user-attachments/assets/0729cb26-b953-4930-a07d-a0c7aa618dcb" />
 
+# Como ficou o site final:
+<img width="1914" height="994" alt="image" src="https://github.com/user-attachments/assets/65223986-7310-43c1-ab0d-d3e432fcc7ab" />
+
 * Deixando o site bonitin
 <img width="1919" height="1007" alt="image" src="https://github.com/user-attachments/assets/a1fa3121-f03f-4097-83bd-f8647c713961" />
 <img width="1919" height="1016" alt="image" src="https://github.com/user-attachments/assets/ddf562ad-07fd-4ec5-b67c-a6d994053c66" />
