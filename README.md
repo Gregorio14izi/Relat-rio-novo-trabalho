@@ -18,3 +18,5 @@ Criando site com pesquisa de rota -- Filme em alta
 * criando pastas e arquivos .txt (teste) via SSH:
   <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/f54d8371-d3e6-4c5a-b6b9-f5e92215a688" />
 
+# CRIAÇÃO de novas pastas e arquivos no VSCODE
+<img width="1919" height="1007" alt="image" src="https://github.com/user-attachments/assets/4bc7b457-0833-48ef-a0c6-795b0b0ec92c" />
