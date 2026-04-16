@@ -30,3 +30,4 @@ Criando site com pesquisa de rota -- Filme em alta
 * Deixando o site bonitin
 <img width="1919" height="1007" alt="image" src="https://github.com/user-attachments/assets/a1fa3121-f03f-4097-83bd-f8647c713961" />
 <img width="1919" height="1016" alt="image" src="https://github.com/user-attachments/assets/ddf562ad-07fd-4ec5-b67c-a6d994053c66" />
+https://github.com/Gregorio14izi/Site_do_East_Bengal.git
